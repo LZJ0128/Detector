@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Detector</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--人工检测-->
+    <string name="artificial_detection_11">触屏检测</string>
+    <string name="artificial_detection_12">屏幕判断</string>
+    <string name="artificial_detection_21">外观判断</string>
+    <string name="artificial_detection_22">拨打112</string>
+    <string name="artificial_detection_31">液晶判断</string>
+    <string name="artificial_detection_32">询问进水维修</string>
+    <string name="title_activity_detection11">Detection11Activity</string>
+
+    <string name="detection_11_title">触屏功能</string>
+    <string name="detection_11_btn1">触屏功能完好</string>
+    <string name="detection_11_btn2">部分触屏不可用</string>
+    <string name="detection_11_continue">请将整个屏幕涂满以检测触屏是否部分不可用。</string>
+
+    <string name="detection_12_title">请检查手机屏幕状况</string>
+    <string name="detection_12_btn1">屏幕完好</string>
+    <string name="detection_12_btn2">屏幕有破损</string>
+
+    <string name="detection_21_title">请检查手机机身状况</string>
+    <string name="detection_21_btn1">机身完好</string>
+    <string name="detection_21_btn2">机身有破损</string>
+
+    <string name="detection_22_title">通话功能</string>
+    <string name="detection_22_btn1">通话功能正常（能听到语音）</string>
+    <string name="detection_22_btn2">通话功能异常</string>
+
+    <string name="detection_31_title">液晶判断</string>
+    <string name="detection_31_btn1">无坏点或变色</string>
+    <string name="detection_31_btn2">有坏点或变色</string>
+    <string name="detection_31_continue">请仔细观察接下来分别出现的红、绿、蓝等颜色中是否有坏点或变色。</string>
+
+    <string name="detection_32_title">
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        询问并检测进水维修状况\n
+        \n
+        说明：怎样检测进水或维修痕迹？\n
+        1.充电插口、耳机孔，生锈或发黑；\n
+        2.屏幕上有明显的亮点或暗点；\n
+        3.可打开手机的后盖，观察背面各处的贴纸，\n
+        &#160;&#160;&#160;有变红、掉色痕迹或残旧破损。\n
+        \n
+        满足任意一条，几判断手机有进水或维修。\n
+    </string>
+    <string name="detection_32_btn1">无进水无维修</string>
+    <string name="detection_32_btn2">有进水或维修痕迹</string>
+
+</resources>
