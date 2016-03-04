@@ -42,6 +42,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
         if (!sp.getBoolean("tip", false)){
             showTip();
         }
+
         initUI();
     }
 
